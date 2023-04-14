@@ -20,6 +20,9 @@ import { Link } from "react-router-dom";
                       <li className="nav-item"><Link className="nav-link" to="/Science">Science</Link></li>
                       <li className="nav-item"><Link className="nav-link" to="/Sports">Sports</Link></li>
                       <li className="nav-item"><Link className="nav-link" to="/Technology">Technology</Link></li>
+                      </ul>
+                      <ul className='nav justify-content-end'>
+                      <li className="nav-item"><a className="nav-link active navbar-brand" aria-current="page" href="https://www.linkedin.com/in/shyam-kuntal-8762971a0/">Shyam Kuntal</a></li>
                   </ul>
             </div>
         </div>
