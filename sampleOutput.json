@@ -1,212 +1,240 @@
 {
-  "status": "ok",
-  "totalResults": 33,
-  "articles": [
+  "status": "success",
+  "totalResults": 368,
+  "results": [
     {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Samantha Pearson and Luciana Magalhaes",
-      "title": "In Brazilian Presidential Election, Leftist Former President Lula da Silva Wins First Round - The Wall Street Journal",
-      "description": "The result means current President Jair Bolsonaro and Mr. da Silva, who served two terms but was jailed on a corruption charge, will face each other in an Oct. 30 runoff.",
-      "url": "https://www.wsj.com/articles/brazilian-election-to-choose-between-president-bolsonaro-leftist-rival-11664727728",
-      "urlToImage": "https://images.wsj.net/im-635591/social",
-      "publishedAt": "2022-10-03T03:58:00Z",
-      "content": "SÃO PAULOFormer President Luiz Inácio Lula da Silva took the most votes in Sundays first round of Brazils presidential elections, but President Jair Bolsonaros better-than-expected performance means … [+409 chars]"
+      "title": "Government tights vigilance over fake drug manufacturers, 18 licenses cancelled",
+      "link": "https://news24online.com/india/government-tights-vigilance-over-fake-drug-manufacturers-18-licenses-cancelled/114872/?utm_source=rss&utm_medium=rss&utm_campaign=government-tights-vigilance-over-fake-drug-manufacturers-18-licenses-cancelled",
+      "keywords": [
+        "India"
+      ],
+      "creator": [
+        "Aditya Pratap Singh"
+      ],
+      "video_url": null,
+      "description": "<p>New Delhi: The central government has tightened its vigilance over companies making fake medicines. In a major crackdown against manufacturing of substandard drugs, the central and state regulators conducted a joint inspection of 76 pharma companies to which 18 manufacturers were reportedly found involved in producing forge medicine. The licenses of all of them have […]</p> <p>The post <a rel=\"nofollow\" href=\"https://news24online.com/india/government-tights-vigilance-over-fake-drug-manufacturers-18-licenses-cancelled/114872/\">Government tights vigilance over fake drug manufacturers, 18 licenses cancelled</a> appeared first on <a rel=\"nofollow\" href=\"https://news24online.com\">News24 English</a>.</p>",
+      "content": "The central government has tightened its vigilance over companies making fake medicines. In a major crackdown against manufacturing of substandard drugs, the central and state regulators conducted a joint inspection of 76 pharma companies to which 18 manufacturers were reportedly found involved in producing forge medicine. The licenses of all of them have been cancelled. The Drugs Controller General of India has conducted investigations in companies situated in 20 states. The search lasted for 15 days. According to information, in the first phase of the special drive against the manufacturing of substandard drugs, an investigation has been carried out against 76 companies. Licenses of 18 pharma companies were cancelled for manufacturing spurious and substandard drugs and violating Good Manufacturing Practices (GMP). In addition, show-cause notices to 26 firms have also been issued. As per sources, the regulators have identified 203 drug manufacturers as part of the special drive. Most of the companies are from Himachal Pradesh (70), Uttarakhand (45) and Madhya Pradesh (23). Recently questions have been raised about the quality of medicines manufactured by India-based companies.",
+      "pubDate": "2023-03-28 15:35:35",
+      "image_url": null,
+      "source_id": "news24online",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "india"
+      ],
+      "language": "english"
+    },
+    
+    {
+      "title": "Skoda Kushaq Onyx Edition: Price, features and much more!",
+      "link": "https://news24online.com/auto/skoda-kushaq-onyx-edition-price-features-and-much-more/114775/?utm_source=rss&utm_medium=rss&utm_campaign=skoda-kushaq-onyx-edition-price-features-and-much-more",
+      "keywords": [
+        "Auto"
+      ],
+      "creator": [
+        "Shriti"
+      ],
+      "video_url": null,
+      "description": "<p>New Delhi: Skoda has launched a special version of the popular SUV Kushaq in the Indian market. It has been introduced under the name Onxy Edition. The new Kushaq SUV gets gray colored graphics on the doors, Onxy badging and chrome work on the front grille. Apart from this, 16-inch wheels with wheel covers have […]</p> <p>The post <a rel=\"nofollow\" href=\"https://news24online.com/auto/skoda-kushaq-onyx-edition-price-features-and-much-more/114775/\">Skoda Kushaq Onyx Edition: Price, features and much more!</a> appeared first on <a rel=\"nofollow\" href=\"https://news24online.com\">News24 English</a>.</p>",
+      "content": "Skoda has launched a special version of the popular SUV Kushaq in the Indian market. It has been introduced under the name Onxy Edition. The new Kushaq SUV gets gray colored graphics on the doors, Onxy badging and chrome work on the front grille. Apart from this, 16-inch wheels with wheel covers have been given in the new Kushaq. The Onyx Edition of the new Skoda Kushaq sits between the Active and Ambition Classic variants. Its design parts include LED projector headlamps, fog lamps, rear fog. Talking about the interiors of the new Skoda Kushaq, there have been no significant changes in it. It looks quite similar to the standard model. The interiors of the SUV get blacked out seats, two-spoke steering wheel and chrome finishing around the AV vents. Apart from this, features like 7-inch touchscreen infotainment system, automatic climate control and height adjustable driver seat have been provided in the car. Touch pen control and air care function have been given for AC in the new Kushak. Skoda Kushaq Onyx Edition has been given a 1.0 liter turbo-petrol engine. This setup generates 114bhp power and 178Nm peak torque. Its engine is paired with a 6-speed manual gearbox. The price of Skoda Kushaq Onyx Edition starts from Rs. 12.39 lakhs. It is Rs 80,000 more expensive than the Active variant. Keep in mind that this price is according to the ex-showroom.",
+      "pubDate": "2023-03-28 15:30:57",
+      "image_url": null,
+      "source_id": "news24online",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "india"
+      ],
+      "language": "english"
     },
     {
-      "source": { "id": null, "name": "YouTube" },
-      "author": null,
-      "title": "Kansas City Chiefs vs. Tampa Bay Buccaneers | 2022 Week 4 Highlights - NFL",
-      "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
-      "url": "https://www.youtube.com/watch?v=YXZfwwq3F5s",
-      "urlToImage": "https://i.ytimg.com/vi/YXZfwwq3F5s/hqdefault.jpg",
-      "publishedAt": "2022-10-03T03:44:41Z",
-      "content": null
+      "title": "The Ultimate Guide to Blockchain Technology’s Benefits and Drawbacks",
+      "link": "https://www.cryptotimes.io/blockchain-technology-benefits-and-drawbacks/",
+      "keywords": [
+        "Articles",
+        "Blockchain"
+      ],
+      "creator": [
+        "Guest"
+      ],
+      "video_url": null,
+      "description": "There are many blockchain believers out there who see this technology as the pinnacle of the coming digital…",
+      "content": "There are many blockchain believers out there who see this technology as the pinnacle of the coming digital revolution. Honestly, they are right. Technology replaces outdated processes, eliminates middlemen, and opens up a whole new world to us. Yet, many people do not carefully balance the benefits and drawbacks of blockchain technology when they invest. All technologies have their benefits and drawbacks, and blockchain is no different. However, when companies try to maximize the potential of blockchain, they often overlook the drawbacks. This leads to a lot of wasted time and effort, as well as the unavoidable blunders that accompany it. A can help with the proper implementation of the technology and can guide you through what will be beneficial for your organization. We will discuss blockchain’s benefits and drawbacks in this article to help you with your initial decision. The most basic version of a is just a series of blocks. In this context, a chain can be considered as a digital ledger, whereas a block refers to a piece of digital data that can be accessed by anybody. Three different kinds of digital information are stored in each individual block of the blockchain: transaction data, involvement data, and unique identifiers. Blockchain has the ability to drastically change how businesses access data. Because of its distribution characteristics, weak areas are effectively eliminated in almost all cases. Because of its high stability and strict regulation, confirmed data is almost impossible to change or reverse. There is no need for data to be trusted in transactional operations since there are no intermediaries. Businesses of various sizes and in a broad range of sectors can reap the benefits of this technology. Below are the top three benefits: The blockchain often replicates data across thousands of devices. There is a distributed network consisting of these nodes. Its distribution makes the data and systems very strong. They are very resilient to malicious attacks and technological issues. Blocks that have been confirmed are very unlikely to be altered. This suggests that it is almost impossible to change or remove data from the ledger once it has been entered. So, a blockchain is an ideal tool for the safe keeping of financial, banking, medical, and other equally sensitive data. A public distributed ledger tracks and logs all changes in perpetuity. Traditional payment methods need both parties and a mediator for transactions. Banks, credit card companies, and payment solutions are intermediaries. Using this method eliminates the need for a middleman. In order to ensure the legitimacy of these trades, the distributed node network employs a method known as mining. Blockchain is thus generally viewed as a totally reliable technology. Why has blockchain not been adopted by everyone yet, considering the benefits outlined above? Every benefit has a comparable drawback. Blockchain technology is no exception. There are a few factors that might lead businesses to hesitate before taking any action. Due to the fact that its ledger is the most extensive and complex of all blockchains, Bitcoin is considered the technology’s progenitor. The that protects the blockchain’s security is called Proof of Work. It has a well-deserved reputation for being both effective and efficient. Even with all of the security protections that have been implemented, there are still ways that blockchains can be attacked. A 51 percent attack is among the most common types of damaging attacks that people talk about. The innovation behind blockchain technology is public-key cryptography, also called asymmetric cryptography. This gives access to blockchain data when combined with a private key. In the event that a user or employee misplaces or forgets their private key, the data is completely gone. The integrity and security of the whole ledger would be compromised if the private key was affected in any way. Despite the many advantages of this technology, users of Proof of Work are often ineffective. The blockchain mining market is quite competitive. This makes the work of other miners completely pointless, especially considering there is only ever one “winner” in a given time period. Blockchain technology has several business applications despite its considerable drawbacks. It still has a long way to go before the adoption becomes widespread. Despite this, several large companies have already invested heavily in blockchain integration.",
+      "pubDate": "2023-03-28 14:38:00",
+      "image_url": null,
+      "source_id": "cryptotimes",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "india"
+      ],
+      "language": "english"
     },
     {
-      "source": { "id": null, "name": "Hollywood Reporter" },
-      "author": "Rebecca Sun",
-      "title": "Sacheen Littlefeather Dead: Actress Who Delivered Brando Oscar Speech Was 75 - Hollywood Reporter",
-      "description": "The actress and Native American activist says her Hollywood career was ruined after she spoke for the actor at the 1973 Academy Awards.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/sacheen-littlefeather-dead-delivered-marlon-brando-oscar-rejection-speech-1235231657/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/10/GettyImages-1424795363.jpeg?w=1024",
-      "publishedAt": "2022-10-03T02:50:28Z",
-      "content": "Sacheen Littlefeather (Apache/Yaqui/Ariz.), the Native American actress and activist who took to the stage at the 1973 Academy Awards to reveal that Marlon Brando would not accept his Oscar for The G… [+10052 chars]"
+      "title": "Disney closes its Metaverse Division as part of their Layoffs Plan",
+      "link": "https://www.cryptotimes.io/disney-closes-its-metaverse-division-as-part-of-their-layoffs-plan/",
+      "keywords": [
+        "Metaverse",
+        "News",
+        "Disney"
+      ],
+      "creator": [
+        "Dhara Chavda"
+      ],
+      "video_url": null,
+      "description": "The closure of Disney's Metaverse division is part of a larger strategy to streamline the operations and focus on its core strengths in content creation and distribution.",
+      "content": "According to the WSJ , Disney has shut down its Metaverse division as part of a strategy to lay off thousands of workers across its theme park, cruise line, and retail companies. The company will further reduce headcount by around 7000 over the next two months. Disney’s next-generation storytelling and consumer experiences unit, the small division that was developing metaverse strategies, looks like it’s one of the first to go. The metaverse division is headed by Mike White, who was promoted to the role from SVP of consumer experiences and platforms in February 2022 and charged with getting Disney deeper into the web3 space. The unit aimed to find ways to tell more interactive stories in immersive formats using Disney’s extensive library of intellectual property, according to WSJ. All 50 or so members of the team have lost their jobs, sources told WSJ. White will remain at the company, but it’s not clear in what capacity. The Metaverse division was a new effort devoted to researching virtual reality and other immersive digital experiences. The decision to close the Metaverse division comes after Disney revealed plans in October 2020 to restructure its media and entertainment divisions to focus more on streaming and direct-to-consumer programming. As part of this reorganization, the firm established a new business, Media and Entertainment Distribution, to supervise its streaming services, which include Disney+, Hulu, and ESPN+. While the closure of Disney’s Metaverse division may be disappointing to those interested in the company’s exploration of virtual reality and immersive digital experiences, it appears to be part of a larger strategy to streamline the company’s operations and focus on its core strengths in content creation and distribution.",
+      "pubDate": "2023-03-28 13:24:00",
+      "image_url": null,
+      "source_id": "cryptotimes",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "india"
+      ],
+      "language": "english"
     },
     {
-      "source": { "id": "the-washington-post", "name": "The Washington Post" },
-      "author": "Missy Ryan, Robyn Dixon, Serhiy Morgunov",
-      "title": "Zelensky says Lyman in Donetsk is fully liberated - The Washington Post",
-      "description": "Ukrainian President Volodymyr Zelensky said the town of Lyman, which Russian troops have used as a key logistics hub in Ukraine’s eastern Donetsk region, was completely “cleared of Russian occupiers,” the Defense Ministry said on Twitter.",
-      "url": "https://www.washingtonpost.com/world/2022/10/02/ukraine-russia-lyman-donbas/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3EUKG4SCREI63PQXRHF6NOGAUU.jpg&w=1440",
-      "publishedAt": "2022-10-03T02:43:21Z",
-      "content": "KYIV, Ukraine Ukrainian President Volodymyr Zelensky announced the full recovery of a strategic town in eastern Ukraine on Sunday as a public brawl intensified in Russia over responsibility for the l… [+9521 chars]"
+      "title": "Ben Stokes To Play As Specialist Batter At Start Of IPL 2023- Report",
+      "link": "https://www.thetimesofbengal.com/sports/ben-stokes-to-play-as-specialist-batter-at-start-of-ipl-2023-report/",
+      "keywords": [
+        "Sports"
+      ],
+      "creator": [
+        "admin"
+      ],
+      "video_url": null,
+      "description": "Home Sports Ben Stokes To Play As Specialist Batter At Start Of IPL 2023- Report The star allrounder, who was picked by the four-time IPL champions for Rs. 16.25 crore during the auction held in December last year, arrived in India last week and has been training for the upcoming season starting March 31. Ben […]",
+      "content": "Mumbai, Mar 28: England Test captain Ben Stokes will be available only as a specialist batter for Chennai in the early stages of the Indian Premier League 2023. The star allrounder, who was picked by the four-time IPL champions for Rs. 16.25 crore during the auction held in December last year, arrived in India last week and has been training for the upcoming season starting March 31. A report in ESPNCricinfo said, Stokes, who has played for Rajasthan Royals and Rising Pune Supergiant in the past, will likely play as a specialist batter initially to manage his knee injury, for which he has taken a cortisone injection — an anti-inflammation medicine. The 31-year-old has been hampered by recurring injuries to his left knee, with the most recent flare-up happening during England’s tour of New Zealand. Stokes bowled only nine overs across two Tests and batted with a lot of discomfort on the final day of the second Test in Wellington. Terming the injury “very frustrating”, Stokes said he hoped to “get into a position that I feel like I don’t have to worry about my knee anymore” with England set to host Australia for the Ashes this year in June. CSK batting coach Michael Hussey confirmed Stokes might not bowl at the start of the IPL. “My understanding is he’s ready to go as a batsman from the start. The bowling might be wait and see. I know he had his first very light bowl yesterday (Sunday) since he had his injections in his knee,” said Hussey. “The physios from Chennai (CSK) and ECB (England and Wales Cricket Board) are working pretty closely together. My understanding is he won’t be bowling much at all in the first few games of the tournament… it might be a few weeks. I’m not 100% sure, (but we will) hopefully get him bowling at some stage in the tournament,” Hussey added. With the home-and-away format returning in IPL 2023, CSK are set to play in front of their fans at the Chinnaswamy Stadium. Hussey hoped the setup brings the best out of Stokes. “The ground is amazing: new stands up, full capacity. The first home game, the atmosphere is going to be out of this world. I can’t wait — and I’m sure Stokesy is going to absolutely love it. That’s the thing with those big players, they generally like a big stage and perform their best on it. Once he gets out there in Chepauk Stadium in front of an unbelievably loud crowd, I hope it’s going to bring out the best in him,” Hussey said. Hussey added that Stokes had been “hitting the ball really well” since arriving in India, predicting that he would be “huge” to the franchise’s bid to reach the playoffs, “particularly if we can get him bowling… having those allrounders is really important.” Source link",
+      "pubDate": "2023-03-28 12:56:52",
+      "image_url": null,
+      "source_id": "the_tob",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "india"
+      ],
+      "language": "english"
     },
     {
-      "source": { "id": null, "name": "Sports Illustrated" },
-      "author": "Pat Forde",
-      "title": "Paul Chryst Falls Victim to College Football’s New, Ruthless Way of Life - Sports Illustrated",
-      "description": "Wisconsin fired its coach Sunday after a 2–3 start, casting aside the Madison native who oversaw seven successful seasons.",
-      "url": "https://www.si.com/college/2022/10/03/paul-chryst-wisconsin-firing-ruthless",
-      "urlToImage": "https://www.si.com/.image/t_share/MTkyNzU3NjIzMjkwODY0ODQw/paul-chryst.jpg",
-      "publishedAt": "2022-10-03T02:29:07Z",
-      "content": "The NFL is supposed to be the shark tank of football, an eat-or-be-eaten cauldron of pressure, a place where job security adheres to the league’s acronym: Not For Long. And yet it’s kind, gentle and … [+6474 chars]"
+      "title": "Generating spatially structured electron spins using a structured light",
+      "link": "https://www.techexplorist.com/generating-spatially-structured-electron-spins-using-structured-light/58131/?utm_source=rss&utm_medium=rss&utm_campaign=generating-spatially-structured-electron-spins-using-structured-light",
+      "keywords": [
+        "Science",
+        "Electrons",
+        "Spins"
+      ],
+      "creator": [
+        "Pranjal Mehar"
+      ],
+      "video_url": null,
+      "description": "Storing information with spins. Continue reading Generating spatially structured electron spins using a structured light on Tech Explorist.",
+      "content": null,
+      "pubDate": "2023-03-28 12:46:30",
+      "image_url": null,
+      "source_id": "techexplorist",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "india",
+        "singapore"
+      ],
+      "language": "english"
     },
     {
-      "source": {
-        "id": "entertainment-weekly",
-        "name": "Entertainment Weekly"
-      },
-      "author": "Randall Colburn",
-      "title": "Rhaenyra and Daemon finally get together on House of the Dragon - Entertainment Weekly News",
-      "description": "The kids aren't alright in the latest episode (but Rhaenyra and Daemon are).",
-      "url": "https://ew.com/tv/recaps/house-of-the-dragon-season-1-episode-7/",
-      "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C77%2C2000%2C1077&poi=%5B900%2C319%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2022%2F09%2F30%2FHouse-of-the-Dragon_093022_7.jpg",
-      "publishedAt": "2022-10-03T02:02:00Z",
-      "content": "Laena Velaryon is dead and the Targaryen and Velaryon clans have assembled at Driftmark for a burial at sea. As Vaemond (Wil Johnson) intones the burial rites, Daemon (Matt Smith) lets loose with a d… [+6748 chars]"
+      "title": "QuestGPT Shines During ETHDenver 2023 [Project Spotlight]",
+      "link": "https://www.cryptonewsz.com/questgpt-shines-during-ethdenver-2023/",
+      "keywords": [
+        "Cryptocurrency",
+        "Cryptocurrency News"
+      ],
+      "creator": [
+        "Mark Peterson"
+      ],
+      "video_url": null,
+      "description": "ETHDenver, the largest Ethereum ecosystem conference, concluded last Sunday with the hackathon finalists presenting their builds to an enthusiastic crowd at Denver’s National Western Complex. The conference attracted over 20,000 attendees, lasted two weeks, and included programming, hacker houses, parties, and panels throughout Denver. By the time of the closing ceremonies, hundreds of developers had …",
+      "content": ", the largest Ethereum ecosystem conference, concluded last Sunday with the hackathon finalists presenting their builds to an enthusiastic crowd at Denver’s National Western Complex. The conference attracted over 20,000 attendees, lasted two weeks, and included programming, hacker houses, parties, and panels throughout Denver. By the time of the closing ceremonies, hundreds of developers had gathered at ETHDenver’s main stage to cheer on their favorite #BUIDLathon projects. One curious project that caught the attention of many attendees was , a project that fuses the ChatGPT utility with Community engagement elements, gamifying engagement, and interaction. The QuestGPT team had only met the day before the hackathon and had a small part of the project vision in mind. However, the collaborative spirit at ETHDenver helped create an atmosphere where other builders and developers eagerly lined up to test the tool, give feedback, and pitch their own ideas for what should be the focus of the project. – , Team QuestGPT Before the main event of ETHDenver even began, QuestGPT had over 100 users testing and interacting with their tool in an alpha testing environment. The excitement surrounding the small project continued to grow as several builders went out of their way to tweet and record videos about the project, further demonstrating the culture of collaboration and support at ETHDenver. Thanks to its base of developer fans, QuestGPT continued to grow and improve. By the time of the main event, the team had amassed a large amount of user data and had released a new polished version of their alpha. The latest version included created and airdropped to the user at the end of their story based on the events of their game. While collaboration and ecosystem building were emphasized at ETHDenver, QuestGPT Team’s hustle is what really stood out. Possibly being one of the only groups to use a traditional approach by printing out posters and postcards, the QuestGPT team attracted even more attendees eager to test their five-day-old project and provide feedback on how it could be improved. Thanks to the determination of the QuestGPT team, support from their fellow , and the excitement from ETHDenver attendees, the project attracted over 300 users in just six days. Their API was hit over 5500 times, and their alpha boasted equally impressive discord engagement stats. It was evident that QuestGPT had something unique, and with a large group of dedicated fans, the team worked hard to deliver a high-quality product by the event’s end. The final day of the ETHDenver hackathon was busy and exciting, with a flurry of activity typical of such a community-driven event. Despite the chaos, the QuestGPT team continued to push out updates, impressing attendees with new art styles for their generative NFTs and leading their user base to create nearly 100 new NFTs, continuing even after the event had officially ended. It comes as no surprise that QuestGPT won ETHDenver through main prize bounty for and was selected for their new marketplace. Given their enthusiastic web3 community, AI’s growing momentum, and even an upcoming release of a new D&D movie, QuestGPT looks to be in a strong position to leverage its success at one of the world’s largest events. I even played it myself and got to experience its engaging power firsthand, finding it both enjoyable and addictive. It’s no small feat to make a single-player experience on Discord entertaining, but QuestGPT managed to strike the perfect balance. You can try it out for yourself in their . Overall, the event demonstrated the power of collaboration, innovation, and community in the Ethereum ecosystem and provided a platform for budding entrepreneurs to showcase their talent and ideas. It’s exciting to see what the future holds for QuestGPT, especially in the realm of AI and blockchain technology, where the fusion of whimsy and real-world value can be a game-changer.",
+      "pubDate": "2023-03-28 12:38:45",
+      "image_url": null,
+      "source_id": "cryptonewsz",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "india"
+      ],
+      "language": "english"
     },
     {
-      "source": { "id": null, "name": "KCRA Sacramento" },
-      "author": "Greta Serrin",
-      "title": "What we're learning about the five victims of Stockton serial killings - KCRA Sacramento",
-      "description": "As the Stockton Police Department searches for the person or people responsible for the serial killings, KCRA 3 is learning more about the five lives lost.",
-      "url": "https://www.kcra.com/article/what-were-learning-about-five-victims-stockton-serial-killings/41480362",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/stockton-victims-2-1664678695.png?crop=1.00xw:0.668xh;0,0&resize=1200:*",
-      "publishedAt": "2022-10-03T01:41:00Z",
-      "content": "STOCKTON, Calif. —Five people were killed in a string of recent homicides in Stockton this summer that the police chief confirmed on Friday are interconnected. \r\nAs the Stockton Police Department sea… [+3909 chars]"
+      "title": "Trojan terror! Trojan targets 450 apps on Google Play Store, says report",
+      "link": "https://tech.hindustantimes.com/tech/news/trojan-terror-trojan-targets-450-apps-on-google-play-store-says-report-71680003700597.html",
+      "keywords": null,
+      "creator": null,
+      "video_url": null,
+      "description": "A new Android trojan app has emerged that could take over your bank account and empty it of all your money.",
+      "content": "Just days after it was revealed that Xenomorph Android malware has made a comeback, another Android Trojan threat has emerged and although it isn't fully developed yet, it could still lead to disastrous consequences for people around the world. It has been injected into the Google Play Store ecosystem. Google Play Store offers millions of apps for Android users for any and all tasks. Despite Google's attempts, some potentially harmful apps slip through without being detected. The latest Trojan that has created big problems is known as Nexus and it is capable of targeting almost 450 apps on the Google Play Store. What is Nexus? According to a report by Cleafy, Nexus first appeared on multiple hacking forums back in January 2023. It is being distributed through phishing pages disguised as legitimate websites of YouTube Vanced, a modified version of YouTube, according to threat intelligence firm Cyble . The trojan is capable of stealing passwords from banking applications and can intercept both 2FA codes received through text messages, as well as codes generated by the Google Authenticator app. Although Nexus is still in its developmental stages, it is already capable of causing major harm. Nexus has been introduced on a ‘Malware-as-a-Service' platform where hackers pay other cybercriminals to access their service. How does it work? Nexus takes over a bank account by initiating overlay attacks which involves putting an overlay or a fake version on top of a legitimate banking app. When users log in to their accounts, the overlay captures their username and password. Additionally, Nexus has a keylogger that can capture any passwords a user types or autofills on their phone. Moreover, the latest version of Nexus has the ability to delete text messages received on the infected device, halt its 2FA stealing feature, as well as update itself regularly by pinging a cybercriminal-controlled command-and-control (C&C) server. How you can stay safe There are various ways you can stay safe from malicious malware to keep all your banking information away from the hands of cybercriminals and hackers. 1. NEVER download and install apps from unknown sources. Use only Google Play Store to install apps. 2. Never download any apps from third-party app stores. 3. Do not open any links from any of the text messages you receive. Banks never ask customers to install any app from a given link. 4. Install antivirus and antimalware software on your smartphone to keep it safe from any potential malware.",
+      "pubDate": "2023-03-28 12:31:22",
+      "image_url": "https://images.hindustantimes.com/tech/img/2023/03/28/1600x900/cyber-4444448_640_1680006621421_1680006629508_1680006629508.jpg",
+      "source_id": "hindustantimes_tech",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "india"
+      ],
+      "language": "english"
     },
     {
-      "source": { "id": null, "name": "YouTube" },
-      "author": null,
-      "title": "Hackers release stolen LAUSD data on dark web - ABC7",
-      "description": "After the Los Angeles Unified School District refused to pay a cyberattack ransom, a criminal hacking group has released district data onto the dark web. Det...",
-      "url": "https://www.youtube.com/watch?v=1msd5vLmBx8",
-      "urlToImage": "https://i.ytimg.com/vi/1msd5vLmBx8/maxresdefault.jpg",
-      "publishedAt": "2022-10-03T01:27:01Z",
-      "content": null
+      "title": "Sebi Recovers Rs 6.57 Cr From Sahara Group Firms, Subrata Roy And Others",
+      "link": "https://www.news18.com/business/sebi-recovers-rs-6-57-cr-from-sahara-group-firms-subrata-roy-and-others-7406191.html",
+      "keywords": [
+        "business"
+      ],
+      "creator": null,
+      "video_url": null,
+      "description": "The recovery proceedings were initiated against these entities after they failed to pay Rs 6 crore fine imposed on them by Sebi in June 2022.",
+      "content": "Markets regulator Sebi on Tuesday said it has recovered pending dues worth Rs 6.57 crore from Sahara India Real Estate Corporation, its chief Subrata Roy, and others in the case pertaining to flouting norms in issuance of optionally fully convertible debentures. “In view of the payment of the amount of Rs 6.57 crore due under the certificate, the said certificate is hereby completed,\" the Securities and Exchange Board of India (Sebi) said in its recovery order. The amount included interest and other charges. The regulator in December ordered the attachment of bank and demat accounts of Sahara India Real Estate Corporation (now known as Sahara Commodity Services Corporation), Subrata Roy, Ashok Roy Choudhary, Ravi Shanker Dubey and Vandana Bharrgava to recover Rs 6.42 crore for violating regulatory norms in the issuance of OFCDs (Optionally Fully Convertible Debentures). This amount included interest, all costs, charges and expenses. The recovery proceedings were initiated against these entities after they failed to pay Rs 6 crore fine imposed on them by Sebi in June 2022. The case relates to the issuance of OFCDs by Sahara India Real Estate Corporation and Sahara Housing Investment Corporation during 2008-09. The companies raised money through the public issue of securities by issuing OFCDs without following the various procedures intended to protect the interest of the investors, in respect of public issues, prescribed under the norms. According to Sebi, the subscription towards the OFCDs was solicited by the two companies from the general public throughout the country, without adequately informing them about the risks involved in the instruments. The issuance was allegedly done in contravention of the provisions of the Sebi’s ICDR (Issue of Capital and Disclosure Requirements) Regulations and PFUTP (Prohibition of Fraudulent and Unfair Trade Practices). Read all the Latest Business News here",
+      "pubDate": "2023-03-28 12:05:07",
+      "image_url": "https://images.news18.com/ibnlive/uploads/2023/03/sebi-1200-2-16800047713x2.png",
+      "source_id": "news18",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "india"
+      ],
+      "language": "english"
     },
     {
-      "source": { "id": null, "name": "CBS Sports" },
-      "author": "",
-      "title": "Steelers' QB situation remains unclear following Kenny Pickett's debut in loss to Jets - CBS Sports",
-      "description": "Who will start at quarterback remains a question mark in Pittsburgh",
-      "url": "https://www.cbssports.com/nfl/news/steelers-qb-situation-remains-unclear-following-kenny-picketts-debut-in-loss-to-jets/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/10/02/ace92152-d909-4547-97ac-d55e0f25d8d2/thumbnail/1200x675/7301b6ba06d9bee790aff3755ad617f0/wilsonpickett.jpg",
-      "publishedAt": "2022-10-03T00:05:00Z",
-      "content": "PITTSBURGH -- A wave of emotion flowed over the home crowd when Kenny Pickett trotted onto the field to begin the second half of Sunday's home game to the Jets. It looked like something out of Hollyw… [+8182 chars]"
-    },
-    {
-      "source": { "id": "cbs-news", "name": "CBS News" },
-      "author": "Melissa Quinn",
-      "title": "Fort Myers mayor says county acted \"appropriately\" with evacuation orders ahead of Hurricane Ian - CBS News",
-      "description": "\"The thing is that a certain percentage of people will not heed the warnings regardless,\" Anderson said.",
-      "url": "https://www.cbsnews.com/news/hurricane-ian-fort-myers-mayor-kevin-anderson-lee-county-acted-appropriately-evacuation-orders/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/10/02/ed527121-4f0a-4df3-a5ff-11d6213dda4b/thumbnail/1200x630/c267ade98f3cb485f06ab66d1ff9bb0e/1664725689773.png",
-      "publishedAt": "2022-10-02T23:59:00Z",
-      "content": "Washington — The mayor of Fort Myers, Florida, one of the areas hit the hardest by Hurricane Ian last week, defended the timing of evacuation orders given by Lee County officials as the storm neared … [+4223 chars]"
-    },
-    {
-      "source": { "id": null, "name": "The Guardian" },
-      "author": "Guardian staff reporter",
-      "title": "Ravens’ fourth-down gamble backfires as Bills win on final play - The Guardian",
-      "description": "Tyler Bass kicked a 21-yard field goal on the game’s final play, and Josh Allen rallied the Buffalo Bills from a 17-point deficit",
-      "url": "https://amp.theguardian.com/sport/2022/oct/02/ravens-bills-josh-allen-lamar-jacksons-nfl-football-scores",
-      "urlToImage": null,
-      "publishedAt": "2022-10-02T23:56:00Z",
-      "content": "NFL<ul><li>Josh Allen and Lamar Jackson in battle of top QBs</li><li>Cooper Rush continues winning run for Cowboys</li></ul>\r\nTyler Bass kicked a 21-yard field goal on the games final play, and Josh … [+7923 chars]"
-    },
-    {
-      "source": { "id": null, "name": "9to5google.com" },
-      "author": "Abner Li",
-      "title": "Pixel Watch ad leaks ‘Help by Google’ & ‘Health by Fitbit’ tagline, metal bands coming later - 9to5Google",
-      "description": "In addition to the 7 and 7 Pro, an ad for the Pixel Watch leaked today with a look at what features Google is planning to highlight...",
-      "url": "https://9to5google.com/2022/10/02/pixel-watch-ad-leaked/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/09/pixel-watch-face-chaotic-shapes.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2022-10-02T23:17:00Z",
-      "content": "In addition to the 7 and 7 Pro, an ad for the Pixel Watch leaked today with a look at what features Google is planning to focus on with its inaugural Wear OS 3 wearable. \r\nShared by SnoopyTech on Twi… [+1364 chars]"
-    },
-    {
-      "source": { "id": null, "name": "The Guardian" },
-      "author": "Edward Helmore",
-      "title": "Hurricane Ian: Americans urged to weigh risks of rebuilding in vulnerable areas - The Guardian US",
-      "description": "Fema administrator says US residents should ‘make informed decisions’ about rebuilding in areas hit by natural disasters",
-      "url": "https://amp.theguardian.com/us-news/2022/oct/02/hurricane-ian-risks-rebuilding-vulnerable-areas",
-      "urlToImage": "https://i.guim.co.uk/img/media/2b5b68ac94c55f81f0dfdee3a489fdc5c4de5d78/0_0_5057_3034/master/5057.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fe6c56fab3787b33ea967bda7aebe8db",
-      "publishedAt": "2022-10-02T23:04:00Z",
-      "content": "US Federal Emergency Management Agency (Fema) administrator Deanne Criswell asked Americans on Sunday to make informed decisions about rebuilding in vulnerable areas hit by natural disasters intensif… [+5778 chars]"
-    },
-    {
-      "source": { "id": null, "name": "New York Post" },
-      "author": "Associated Press",
-      "title": "Pope Francis warns of nuclear war risk as he appeals to Putin to 'stop' in Ukraine - New York Post ",
-      "description": "Pope Francis on Sunday appealed to Russian President Vladimir Putin for a cease-fire, imploring him to “stop this spiral of violence and death” in Ukraine.",
-      "url": "https://nypost.com/2022/10/02/pope-francis-warns-of-nuclear-war-risk-as-he-appeals-to-putin-to-stop-in-ukraine/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/10/newspress-collage-24096286-1664750086814.jpg?quality=75&strip=all&1664735751&w=1024",
-      "publishedAt": "2022-10-02T23:01:00Z",
-      "content": "VATICAN CITY Pope Francis on Sunday appealed to Russian President Vladimir Putin for a cease-fire, imploring him to stop this spiral of violence and death in Ukraine and denouncing the absurd risk of… [+3868 chars]"
-    },
-    {
-      "source": { "id": "fox-news", "name": "Fox News" },
-      "author": "Adam Sabes",
-      "title": "VP Kamala Harris dodges question asking about dispersing Hurricane Ian relief based on 'equity' - Fox News",
-      "description": "Vice President Kamala Harris didn't answer a question asking her to clarify comments she made on Friday when she said that \"equity\" will be taken into account for hurricane relief.",
-      "url": "https://www.foxnews.com/politics/kamala-harris-dodges-question-asking-about-dispersing-hurricane-ian-relief-based-equity",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/10/Kamala-Harris-dodges-question-asking-about-dispersing-Hurricane-relief-based-on-equity-1.jpeg",
-      "publishedAt": "2022-10-02T23:00:25Z",
-      "content": "Vice President Kamala Harris dodged a question asking her if she could explain what she meant when stating that the Biden administration would take \"equity\" into account when disbursing natural disas… [+2501 chars]"
-    },
-    {
-      "source": { "id": null, "name": "CNBC" },
-      "author": "Samantha Subin",
-      "title": "Stock futures turn slightly positive after Dow, S&P 500 cap worst month since March 2020 - CNBC",
-      "description": "Stock futures were slightly higher in overnight trading Sunday after Wall Street after the S&P and Dow capped their worst month since March 2020.",
-      "url": "https://www.cnbc.com/2022/10/02/stock-market-futures-open-to-close-news.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107114795-NYSE-Trading-Floor-Photo-220907-CC-PRESS-1.jpg?v=1664748134&w=1920&h=1080",
-      "publishedAt": "2022-10-02T22:59:00Z",
-      "content": "Stock futures rose slightly in overnight trading Sunday after Wall Street wrapped up another negative quarter and both the S&amp;P 500 and Dow Jones Industrial Average finished their worst month sinc… [+1664 chars]"
-    },
-    {
-      "source": { "id": "google-news", "name": "Google News" },
-      "author": null,
-      "title": "Latest Pixel 7 leaks zoom in on camera performance, tease Cinematic Blur - Android Police",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiQmh0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL2dvb2dsZS1waXhlbC03LWxlYWtzLWNpbmVtYXRpYy1ibHVyL9IBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2022-10-02T22:30:00Z",
-      "content": null
-    },
-    {
-      "source": { "id": null, "name": "MarketWatch" },
-      "author": "Mike Murphy",
-      "title": "Tesla reports record deliveries, but numbers are still shy of analysts' targets - MarketWatch",
-      "description": "Wider-than-usual spread between production and deliveries blamed on logistical issues",
-      "url": "https://www.marketwatch.com/story/tesla-reports-record-deliveries-but-numbers-are-still-shy-of-analysts-targets-11664743494",
-      "urlToImage": "https://images.mktw.net/im-631950/social",
-      "publishedAt": "2022-10-02T20:44:00Z",
-      "content": "Tesla Inc. reported record quarterly deliveries on Sunday. but the number still disappointed analysts.Tesla said it produced over 365,000 vehicles in the just-completed third quarter, and made more t… [+2079 chars]"
-    },
-    {
-      "source": { "id": "associated-press", "name": "Associated Press" },
-      "author": "Sam Mednick",
-      "title": "Ousted Burkina Faso leader leaves country for Togo - The Associated Press - en Español",
-      "description": "OUAGADOUGOU, Burkina Faso (AP) — Burkina Faso's ousted coup leader has offered his resignation as long as his security and other conditions were met, and the new junta leader who overthrew him has accepted the deal, religious leaders mediating the West Africa…",
-      "url": "https://apnews.com/article/ouagadougou-africa-west-burkina-faso-47f243532a450992fc647258ec94e412",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/df07594f73f04cbd97e4501449b90a38/3000.jpeg",
-      "publishedAt": "2022-10-02T20:06:47Z",
-      "content": "OUAGADOUGOU, Burkina Faso (AP) Burkina Fasos ousted coup leader has offered his resignation as long as his security and other conditions were met, and the new junta leader who overthrew him has accep… [+4692 chars]"
-    },
-    {
-      "source": { "id": null, "name": "SciTechDaily" },
-      "author": null,
-      "title": "Giant “Super Neurons” Discovered in SuperAger Brains - SciTechDaily",
-      "description": "Post-mortem brains of SuperAgers reveal significantly larger neurons in memory region. SuperAger neurons are even larger than those in individuals 20 to 30 years younger These neurons do not have tau tangles that are a hallmark of Alzheimer’s Larger neurons i…",
-      "url": "https://scitechdaily.com/giant-super-neurons-discovered-in-superager-brains/",
-      "urlToImage": "https://scitechdaily.com/images/Neuron-Illustration.jpg",
-      "publishedAt": "2022-10-02T19:43:41Z",
-      "content": "ByNorthwestern UniversityOctober 2, 2022\r\nAccording to a new study by Northwestern Medicine, neurons in an area of the brain responsible for memory were significantly larger in SuperAgers compared to… [+6659 chars]"
+      "title": "Wombat Exchange to launch on Arbitrum on 5 April",
+      "link": "https://www.cryptonewsz.com/wombat-exchange-to-launch-on-arbitrum-on-5-april/",
+      "keywords": [
+        "Exchange",
+        "Cryptocurrency Exchange News"
+      ],
+      "creator": [
+        "David Cox"
+      ],
+      "video_url": null,
+      "description": "Wombat Exchange, the next-generation stable swap exchange, proudly announced its launch on Arbitrum One, the leading Ethereum layer-2 network. This launch will take place on 5 April 2023 at 6 am UTC. The new venture of Wombat Exchange intends to increase accessibility, efficiency, and scalability in the multichain territory. The association of Wombat Exchange and …",
+      "content": "Wombat Exchange, the next-generation stable swap exchange, proudly announced its launch on Arbitrum One, the leading Ethereum layer-2 network. This launch will take place on 5 April 2023 at 6 am UTC. The new venture of Wombat Exchange intends to increase accessibility, efficiency, and scalability in the multichain territory. The association of Wombat Exchange and the Arbitrum blockchain shares a common vision and will work together to provide an exceptional stablecoin swapping experience to all Arbinauts. These stablecoins can now be swapped with minimum slippage and offer single-sided liquidity. Wombat is bringing the entire Wombat ecosystem with the multichain expansion that includes the platforms like Quoll Finance, Wombex Finance, and Magpie XYZ to Arbitrum. This force will contribute to adding liquidity pools and creating new opportunities for users. The users can now stake their assets in exchange for rewards. Furthermore, this move marks an essential step of innovation within the world of DeFi. Wombat’s move to deploy on Arbitrum demonstrates a thrilling step taken to revolutionize the DeFi world. The Wombat Exchange community is excited to make themselves a leading multichain stable swap. They promise to deliver a seamless stable swap experience to their customers so that they can select Wombat Exchange as their favorite DeFi platform.",
+      "pubDate": "2023-03-28 11:00:21",
+      "image_url": null,
+      "source_id": "cryptonewsz",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "india"
+      ],
+      "language": "english"
     }
-  ]
+  ],
+  "nextPage": "1680001221561cd7856cc4565ba6e011c522322a79"
 }

@@ -6,8 +6,9 @@ import LoadingBar from 'react-top-loading-bar'
 import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
 
 const App = ()=> {
-  const pageSize = 20;
-  const apikey = '35030fb8e5f74efea099f89b19b5cd21'
+  
+  const apikey = 'pub_197109592872956e257032cd2ecda33625f91'
+  // const apikey = 'pub_197127f4355b81daa2f3e24dc98e63e2a3619'
 
   const[progress, setProgress] = useState(0)
 
@@ -21,13 +22,19 @@ const App = ()=> {
             progress={progress}
           />
         <Switch>
-          <Route exact path="/"><News setProgress = {setProgress} apikey={apikey} key="General" pageSize={pageSize} country="in" category="General"/></Route>
-          <Route exact path="/Entertainment"><News setProgress = {setProgress} apikey={apikey} key="Entertainment" pageSize={pageSize} country="in" category="Entertainment"/></Route>
-          <Route exact path="/Business"><News setProgress = {setProgress} apikey={apikey} key="Business" pageSize={pageSize} country="in" category="Business"/></Route>
-          <Route exact path="/Sports"><News setProgress = {setProgress} apikey={apikey} key="Sports" pageSize={pageSize} country="in" category="Sports"/></Route>
-          <Route exact path="/Health"><News setProgress = {setProgress} apikey={apikey} key="Health" pageSize={pageSize} country="in" category="Health"/></Route>
-          <Route exact path="/Science"><News setProgress = {setProgress} apikey={apikey} key="Science" pageSize={pageSize} country="in" category="Science"/></Route>
-          <Route exact path="/Technology"><News setProgress = {setProgress} apikey={apikey} key="Technology" pageSize={pageSize} country="in" category="Technology"/></Route>
+          <Route exact path="/"><News setProgress = {setProgress} apikey={apikey} category="news"/></Route>
+
+          <Route exact path="/Entertainment"><News setProgress = {setProgress} apikey={apikey} category="entertainment"/></Route>
+
+          <Route exact path="/Business"><News setProgress = {setProgress} apikey={apikey} category="business"/></Route>
+
+          <Route exact path="/Sports"><News setProgress = {setProgress} apikey={apikey} category="sports"/></Route>
+
+          <Route exact path="/Health"><News setProgress = {setProgress} apikey={apikey} category="health"/></Route>
+
+          <Route exact path="/Science"><News setProgress = {setProgress} apikey={apikey} category="science"/></Route>
+
+          <Route exact path="/Technology"><News setProgress = {setProgress} apikey={apikey} category="technology"/></Route>
         </Switch>
         </Router>   
       </div>
